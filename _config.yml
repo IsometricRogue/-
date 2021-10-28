@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: From Any and All Directions
 email:
-description: >- # this means to ignore newlines until "baseurl:"
+description: Exploring the world from any and all directions: Science, making, storytelling, math, philosophy, illusion, and puns.
+>- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+twitter_username: ParadoxRogue
+github_username: IsometricRogue
 minimal_mistakes_skin: default
 search: true
 
@@ -58,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Anneke Brown"
+  avatar : "/assets/TentacleProfile.jpg"
+  bio    : "Student and polymath using the Communication Merit Badge as an excuse to make a website."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -74,7 +75,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-
+      label: "Where Else to Find Me"
+      url: "https://www.youtube.com/watch?v=ub82Xb1C8os"
 footer:
   links:
     - label: "Twitter"
