@@ -8,7 +8,7 @@ tags:
   - 
   - 
 ---
-I collect optical illusions. I enjoy to pull them out from time to time, just to remind myself that what I see is not what exists.
+I collect optical illusions. I enjoy to pull them out from time to time, just to remind myself that what I see is not always what exists.
 
 ## M. C. Escher
 One of my favorite artists.
@@ -25,3 +25,6 @@ Is illusionary fun distinguisable from real fun?
 
 ![fork illusion](https://user-images.githubusercontent.com/63372973/139358892-40db91c1-014d-4f14-9fce-e7ebdb4ff5d1.png)
 
+![monument](https://user-images.githubusercontent.com/63372973/139365618-c8c57202-80cf-4709-8374-996031b04305.jpg)
+
+![120px-Kanizsa_triangle svg](https://user-images.githubusercontent.com/63372973/139365628-4e40254f-3e70-4764-8075-3aa468c3adb7.png)
