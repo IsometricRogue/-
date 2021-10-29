@@ -1,6 +1,5 @@
 	
 title: "Words on the Internet"
-excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
