@@ -1,8 +1,8 @@
 main:
   - title: "Articles"
     url: /posts/
-  - title: ""
-    url: /categories/
+  - title: "Wunderkammer"
+    url: /gallery/
   - title: "Tags"
     url: /tags/
   - title: "About"
