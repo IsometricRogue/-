@@ -2,7 +2,7 @@ main:
   - title: "Articles"
     url: /posts/
   - title: "Wunderkammer"
-    url: /gallery/
+    url: /gallery.md/
   - title: "Tags"
     url: /tags/
   - title: "About"
