@@ -1,11 +1,11 @@
 main:
-  - title: "Articles"
+  - title: "Synonyms"
     url: /posts/
-  - title: "Wunderkammer"
+  - title: "Words"
     url: /gallery.md/
-  - title: "Tags"
+  - title: "Grammar"
     url: /tags/
   - title: "About"
     url: /about/
-  - title: "Testing"
+  - title: "Archive"
     url: /testing.md/
