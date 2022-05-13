@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Merriam-Webster Dictionary of English
+title: Paradox Rogue
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -58,13 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Merriam-Webster"
+  name   : "Anneke Brown"
   avatar : ""
-  bio    : "The Official Dictionary of The English Language, founded in 1828"
+  bio    : "I have written a truly marvelous biography, which this margin is too narrow to contain"
   links:
-    - label: "Website"
+    - label: "You are here"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://isometricrogue.github.io/-/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -74,7 +74,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-      label: "Where Else to Find Us"
+      label: "Where Else to Find Me"
       url: "https://www.youtube.com/watch?v=ub82Xb1C8os"
 footer:
   links:
